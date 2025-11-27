@@ -376,7 +376,7 @@ h6 {
     /* height: 50vh; */
     overflow-y: auto;
     background-color: white;
-    margin: 0 2  20px 0px;
+    margin: 0 20px  20px 0px;
     border-radius: 10px;
     box-shadow: 0 1px 5px rgba(0, 0, 0, 0.2);
 }
@@ -402,16 +402,11 @@ h6 {
 
 
 
-.main-content .trending {
-    border: 2px solid red;
-    height: 100%;
-    /* align-content: center; */
-}
 
 .trending .trending-cards {
     padding: 20px;
     grid-column: 2;
-    border: 2px solid springgreen;
+    
 }
 
 .main-content .trending .trending-cards {
